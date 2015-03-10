@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Github Pages Test"
+title:  "Local Test"
 date:   2015-02-06
 ---
 
