@@ -6,4 +6,4 @@ date:   2015-07-15
 
 localStorage, bwipjs 사용
 
-참조 : [https://github.com/i9yang/barcode_exam/blob/master/index.html](https://github.com/i9yang/barcode_exam/blob/master/index.html)
+참조 : [https://gist.github.com/i9yang/6200f8bf079001eb1950](https://gist.github.com/i9yang/6200f8bf079001eb1950)
