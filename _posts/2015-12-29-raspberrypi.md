@@ -12,8 +12,9 @@ date:   2015-12-29
 2. samba
 3. pptpd(vpn 서버)
 4. nfs
-5. transmission-daemon
+5. transmission-daemon(https://gist.github.com/i9yang/59475caffb6fcdeb9430ef8e9da0647f)
 6. jq(json 파싱)
+7. ntfs-3g(ntfs)
 
 fstab
 ------------------
