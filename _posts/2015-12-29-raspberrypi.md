@@ -19,3 +19,6 @@ date:   2015-12-29
 fstab
 ------------------
 1. /dev/sda1       /media/usb      ext4    defaults        0       0
+
+
+mount -t cifs //192.168.0.8/500G/NVIDIA_SHIELD /srv/shield -o user=i9yang,pass=kj-venus-bunt,iocharset=utf8,file_mode=0777,dir_mode=0777,vers=1.0
